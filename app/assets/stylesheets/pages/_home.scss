@@ -21,8 +21,14 @@ body {
   padding: 10px;
 }
 
+.card img {
+  background-size: cover;
+  height: 180px;
+}
+
 .banner img {
   background-size: cover;
   padding: 200px 0;
   height: 180px;
+  margin: 0;
 }
