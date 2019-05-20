@@ -1,0 +1,28 @@
+// Specific CSS for your home-page
+.btn:hover {
+  color: white;
+}
+
+.nav-link:hover {
+  opacity: 0.8;
+}
+
+body {
+  background-color: white;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.card {
+  margin: 16px 0px;
+  background-color: #F8F9FA;
+  padding: 10px;
+}
+
+.banner img {
+  background-size: cover;
+  padding: 200px 0;
+  height: 180px;
+}
